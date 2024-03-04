@@ -1,0 +1,69 @@
+.Fondo{
+    background-image:url(fondo.jpg);
+    background-attachment: scroll;
+    background-position: center top;
+    background-size: 1500px;
+}
+.titulo{
+    text-align: center;
+   color: black;
+    text-shadow: 2px 2px 2px;
+    letter-spacing: 2px;
+    word-spacing: 8px;
+}
+.sub{
+    text-align: left;
+   color: darkgreen;
+    text-shadow: 2px 2px 2px;
+    letter-spacing: 2px;
+    word-spacing: 8px;
+}
+.caja{
+      align-items: stretch;
+    display: inline-block;
+  height: 250px;
+  justify-content: center;
+  width: 200px;
+    text-align: center;
+}
+.uno{
+    background-color: red;
+}
+.dos{
+    background-color: yellow;
+}
+.tres{
+    background-color: red;
+}
+.cuatro{
+    background-color: yellow;
+}
+.sub2{
+     text-align: left;
+   color: darkgreen;
+    text-shadow: 2px 2px 2px;
+    letter-spacing: 2px;
+    word-spacing: 8px;
+}
+.food{
+    text-align: left;
+   color: darkgreen;
+    text-shadow: 2px 2px 2px;
+    letter-spacing: 2px;
+    word-spacing: 8px;
+}
+.one{
+    background-color: deepskyblue;
+}
+.two{
+    background-color: orange;
+}
+.three{
+    background-color: deepskyblue;
+}
+.four{
+    background-color: orange
+}
+.five{
+    background-color: deepskyblue
+}
